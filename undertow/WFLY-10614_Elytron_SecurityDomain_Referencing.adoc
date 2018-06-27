@@ -111,4 +111,4 @@ http://docs.wildfly.org/13/WildFly_Elytron_Security.html#undertow-subsystem
 
 Existing documentation and quickstarts will also need to be double checked to see if any make use of the existing `/subsystem=elytron/http-authentication-factory=application-http-authentication` resource in that configuration as once this is removed these examples will need to add it back in.
 
-
+CLI Community documentation will be updated to cover the new option.
